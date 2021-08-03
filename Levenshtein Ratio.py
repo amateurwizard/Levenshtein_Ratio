@@ -30,7 +30,7 @@ def main():
     print("Output Data", end=": ")
     print(input_data)
 
-    print("\n******This is a test******")       # Practice test cases for finding Levenshtein ratio & distance.
+    print("\n******This is a test******")       # Practice test cases for finding Levenshtein ratio & distances.
     levenshtein_ratio = Levenshtein.ratio(distorted_data[10], test_string)
     print("Levenshtein Ratio (Raw)", end=": ")
     print(levenshtein_ratio)
