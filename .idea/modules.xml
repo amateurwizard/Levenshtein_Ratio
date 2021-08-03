@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Levenshtein Distance.iml" filepath="$PROJECT_DIR$/.idea/Levenshtein Distance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Levenshtein Ratio.iml" filepath="$PROJECT_DIR$/.idea/Levenshtein Ratio.iml" />
     </modules>
   </component>
 </project>
